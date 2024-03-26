@@ -1,1 +1,2 @@
 Ceci est mon deuxieme fichier
+deuxieme ligne dans le fichier file2.txt
